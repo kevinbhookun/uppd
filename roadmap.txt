@@ -1,0 +1,16 @@
+*************************
+****** Roadmap.txt ******
+*************************
+
+TODO:
++add file upload feature
++add upload progress tracking feature
+
+IDEAS:
++ option to "update drop" if it's my own
++ "recent drops" list in the app
++ Ways of viewing my own drops online:
++	--> requires php component
++	1> Click in the app "view my drops" (this basically automates option 2)
++	2> Enter unique ID (some version of mac address + random characters)
++	3> Sign up for an account with email/password
